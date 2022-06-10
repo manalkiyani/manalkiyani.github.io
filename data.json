@@ -1,0 +1,15 @@
+{
+   "fullname":"Manal Kiyani",
+   "email":"manalkiyani.gmail.com",
+   "website":"https://reactnative.dev/movies.json",
+   "address":"Islamabad I8-2",
+   "profile":"https://www.google.com/search?q=user+icon&tbm=isch&chips=q:user+icon,g_1:avatar:0VDqzZbGReI%3D&hl=en&sa=X&ved=2ahUKEwjitKHQ3aL4AhUQmhoKHQ1oDcIQ4lYoAXoECAEQHg#imgrc=aHMJkkMhk1KwkM",
+   "sites":[
+      {
+         "fb":"https://www.facebook.com/"
+      },
+      {
+         "twitter":"https://twitter.com/"
+      }
+   ]
+}
